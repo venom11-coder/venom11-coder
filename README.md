@@ -77,8 +77,8 @@ Software Engineer | CS Student @ Western University | ML & Full-Stack Developer
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venom11-coder&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venom11-coder&layout=compact" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aman-cs-dev&show_icons=true&theme=default" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-cs-dev&layout=compact" height="160"/>
 </p>
 
 ---
